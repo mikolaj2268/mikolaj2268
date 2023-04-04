@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋 My name is Mikolaj</h1>
-<h3 align="center">I'm Data Science student at the Warsaw University of Technology. <br />  
+<h1 align="left">Hi there 👋 My name is Mikolaj</h1>
+<h3 align="left">I'm Data Science student at the Warsaw University of Technology. <br />  
 As a student in the field of data analysis, I want to develop further in the field of data science and programming.<br />  
 I really enjoy working with the data – analyzing and visualizing it.</h3>
 
