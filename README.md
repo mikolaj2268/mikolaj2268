@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 My name is Mikolaj</h1>
-<h3 align="center">I'm Data Science student at the Warsaw University of Technology. As a student in the field of data analysis, I want to develop further in the field of data science and programming.  
+<h3 align="center">I'm Data Science student at the Warsaw University of Technology. As a student in the field of data analysis, I want to develop further in the field of data science and programming. v<br />  
 I really enjoy working with the data – analyzing and visualizing it.</h3>
 
 - 🔭Currently studying Data Science at Warsaw University of Technology, 3rd year. Learnig subjects like: Machine Learning, Data Visualisation Techniques, Exploratory Data Analysis, Algorithms and Data Structures, Probability, Statistics.  
