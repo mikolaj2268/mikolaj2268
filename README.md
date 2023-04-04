@@ -1,3 +1,4 @@
+<h1 align="center">Hi there 👋 My name is Mikolaj</h1>
 
 
 - 🔭Currently studying Data Science at Warsaw University of Technology, 3rd year. Learnig subjects like: Machine Learning, Data Visualisation Techniques, Exploratory Data Analysis, Algorithms and Data Structures, Probability, Statistics.  
