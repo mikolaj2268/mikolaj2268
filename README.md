@@ -12,8 +12,14 @@
 <a href="https://linkedin.com/in/mikolaj-mroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikolaj-mroz" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+Languages and Tools: \
+[![My Skills](https://skills.thijs.gg/icons?i=py)](https://www.python.org/)
+[<img src="https://user-images.githubusercontent.com/115616454/234381471-355c755a-679e-4274-963d-da6d62480dbf.png" width="50" />](https://www.mathworks.org/)
+[<img src="https://user-images.githubusercontent.com/115616454/234384849-8c5f8be7-1bc1-475d-8cd1-e55af231cccb.png" height="50" />](https://pandas.pydata.org/)
+[<img src="https://user-images.githubusercontent.com/115616454/234385685-f0db3148-4b77-4cab-86e2-836ae059d10a.png" height="40" />](https://scikit-learn.org/stable/)
+[<img src="https://user-images.githubusercontent.com/115616454/234386105-9457e92b-9d47-4b8e-b808-b3d55b4e737b.png" height="50" />](https://www.microsoft.com/en-us/sql-server)
+[<img src="https://user-images.githubusercontent.com/115616454/234386716-4366ff25-3176-4338-bec3-804e6b0c6345.png" height="50" />](https://www.r-project.org/)
+
 
 ## 🐍 A Snake Eating my Contributions Graph
 
