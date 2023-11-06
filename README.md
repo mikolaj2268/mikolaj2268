@@ -21,10 +21,6 @@ Languages and Tools: \
 [<img src="https://user-images.githubusercontent.com/115616454/234386716-4366ff25-3176-4338-bec3-804e6b0c6345.png" height="50" />](https://www.r-project.org/)
 
 
-## 🐍 A Snake Eating my Contributions Graph
 
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
 
 
